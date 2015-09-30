@@ -1,5 +1,5 @@
 from flask import Flask, request, send_from_directory
-from test import *
+
 from selenium import webdriver
 import urllib
 import csv
